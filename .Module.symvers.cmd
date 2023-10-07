@@ -1,0 +1,1 @@
+cmd_/home/fanasina/progr_/linux/__rpi3b64/drivers/project/Module.symvers :=  sed 's/ko$$/o/'  /home/fanasina/progr_/linux/__rpi3b64/drivers/project/modules.order | scripts/mod/modpost -m -a    -o /home/fanasina/progr_/linux/__rpi3b64/drivers/project/Module.symvers -e -i Module.symvers -T - 
