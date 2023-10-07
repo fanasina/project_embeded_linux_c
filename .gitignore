@@ -1,5 +1,5 @@
 *.o
 *.mod.o
-*.mod.c
 *.mod
+*.mod.c
 *.cmd
