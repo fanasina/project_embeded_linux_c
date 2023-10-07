@@ -1,1 +1,0 @@
-cmd_/home/fanasina/progr_/linux/__rpi3b64/drivers/project/project_led_and_int_button.mod := printf '%s\n'   project_led_and_int_button.o | awk '!x[$$0]++ { print("/home/fanasina/progr_/linux/__rpi3b64/drivers/project/"$$0) }' > /home/fanasina/progr_/linux/__rpi3b64/drivers/project/project_led_and_int_button.mod
